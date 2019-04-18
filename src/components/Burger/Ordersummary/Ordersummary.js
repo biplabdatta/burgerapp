@@ -4,7 +4,7 @@ import Button from "../../UI/Button/Button";
 import MatButtonCancel from "../../UI/Button/Matbuttoncancel";
 import MatButtonCheckout from "../../UI/Button/Matbuttoncheckout";
 
-import Aux from "../../../hoc/Auxx/Aux";
+import Aux from "../../../hoc/Auxx/Auxx";
 
 class Ordersummary extends Component {
   //this could be a functional component
